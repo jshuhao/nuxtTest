@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{328:function(n,t,e){"use strict";e.r(t);var l={layout:"blog",asyncData:function(n){var t=n.params;console.log(t)}},o=e(11),component=Object(o.a)(l,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("帖子详情")])}),[],!1,null,null,null);t.default=component.exports}}]);
