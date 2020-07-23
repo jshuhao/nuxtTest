@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{327:function(t,n,e){"use strict";e.r(n);var l={props:{title:{type:String,default:""}}},r=e(11),component=Object(r.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("\n  我是子组件哦\n  "+this._s(this.title)+"\n")])}),[],!1,null,null,null);n.default=component.exports}}]);
